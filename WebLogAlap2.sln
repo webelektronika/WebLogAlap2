@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLogAlap2", "WebLogAlap2\WebLogAlap2.csproj", "{EE0C407D-1227-4A61-93DE-6EFDE7EA41CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0C407D-1227-4A61-93DE-6EFDE7EA41CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0C407D-1227-4A61-93DE-6EFDE7EA41CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0C407D-1227-4A61-93DE-6EFDE7EA41CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0C407D-1227-4A61-93DE-6EFDE7EA41CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F7206B8-EEE1-4CE5-9DA3-5B96C784966C}
+	EndGlobalSection
+EndGlobal
